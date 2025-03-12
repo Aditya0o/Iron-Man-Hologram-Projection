@@ -39,7 +39,7 @@ pip install pygame PyOpenGL trimesh numpy opencv-python mediapipe
 - **Augmented Reality Mode**: Enable projection on AR-compatible devices.
 
 ## Credits
-- Developed by **Zaratho0s**
+- Developed by **AdityOo**
 - Inspired by **Marvel's Iron Man**
 - Built using **Python, OpenGL, and Pygame**
 
